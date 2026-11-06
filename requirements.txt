@@ -1,0 +1,14 @@
+# Core machine learning framework
+tensorflow>=2.16,<3
+
+# Data handling and numerical computing
+numpy>=1.26,<3
+pandas>=2.1
+scikit-learn>=1.4
+
+# Visualization
+matplotlib>=3.8
+
+# Notebook environment (for local development)
+jupyter>=1.0
+ipykernel>=6.29
